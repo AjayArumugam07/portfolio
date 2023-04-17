@@ -8,10 +8,14 @@ function App() {
 
   return (
     <BrowserRouter>
-      <ConstructionBanner />
+      
       <div className="relative z-0 bg-primary">
         <div className="bg-hero-pattern bg-no-repeat bg-cover bg-center">
+          <div>
+          <ConstructionBanner />
           <Navbar />
+          </div>
+         
           <Hero />
         </div>
 

@@ -13,7 +13,7 @@ function ConstructionBanner() {
   }
 
   return (
-    <div className="bg-yellow-200 text-yellow-800 p-2 md:p-3 text-center flex items-center justify-center relative">
+    <div className="bg-yellow-200 text-yellow-800 p-2 md:p-3 text-center flex items-center justify-center relative top-0">
       <FaTools className="mr-1 md:mr-2" size="1em" />
       <span className="text-xs">Website Under Construction</span>
       <button
