@@ -19,7 +19,7 @@ import {
     tesla,
     shopify,
     threejs,
-  } from "../assets";
+  } from "../../public/assets";
   
   export const navLinks = [
     {

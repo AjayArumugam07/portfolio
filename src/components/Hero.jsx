@@ -7,7 +7,7 @@ const Hero = () => {
       <div className='px-6 inset-0 max-w-7xl mx-auto flex md:flex-row items-start gap-5 flex-col'>
         <div className='w-1/2 md:w-1/3 mx-auto'>
           <img
-            src='./src/assets/RT4_Ajay_vairavanarumugam_1614_v2 1.png'
+            src='/assets/RT4_Ajay_vairavanarumugam_1614_v2 1.png'
             alt='Ajay Arumugam'
             className='rounded-full border border-black bg-black max-w-full h-auto object-contain'
           />
