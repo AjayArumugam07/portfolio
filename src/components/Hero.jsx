@@ -49,8 +49,8 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <div className='text-center absolute bottom-10 mx-auto left-0 right-0 md:relative'>
-        <p className='text-tertiary font-bold sm:text-[26px] xs:text-[20px] text-[16px] md:mt-36 mt-6'>
+      <div className='text-center relative'>
+        <p className='text-tertiary font-bold sm:text-[26px] xs:text-[20px] text-[16px] md:mt-36 mt-12'>
           Learn More About Me!
         </p>
         <FaAngleDown className='text-3xl text-secondary animate-bounce mx-auto mt-2' />
