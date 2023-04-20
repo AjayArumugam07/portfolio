@@ -40,8 +40,8 @@ const Hero = () => {
               <FaGithub className='text-4xl' />
             </a>
             <a
-              href='https://github.com/AjayArumugam07'
-              target='_blank'
+              href='Ajay_Arumugam.pdf'
+              download = "Ajay_Arumugam.pdf"
               className='items-center gap-2 text-[#dfd9ff] font-medium flex'
             >
               <FaFileAlt className='text-4xl' />
