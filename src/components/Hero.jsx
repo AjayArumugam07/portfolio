@@ -50,7 +50,7 @@ const Hero = () => {
         </div>
       </div>
       <div className='text-center relative'>
-        <p className='text-tertiary font-bold sm:text-[26px] xs:text-[20px] text-[16px] md:mt-36 mt-12'>
+        <p className='text-tertiary font-bold sm:text-[22px] xs:text-[20px] text-[16px] md:mt-36 mt-12'>
           Learn More About Me!
         </p>
         <FaAngleDown className='text-3xl text-secondary animate-bounce mx-auto mt-2' />
