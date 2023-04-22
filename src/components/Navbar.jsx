@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { navLinks } from '../constants';
-import menu from '../../public/assets/menu.svg';
-import close from '../../public/assets/close.svg';
+import menu from '/menu.svg';
+import close from '/close.svg';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
