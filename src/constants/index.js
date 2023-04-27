@@ -6,7 +6,7 @@ const navLinks = [
         title: 'About'
     },
     {
-        id: 'experience',
+        id: 'experience-section',
         title: 'Experience'
     },
     {

@@ -47,7 +47,8 @@ const ExperienceCard = ({experience}) => {
 }
 
 const Experience = () => {
-    return (<>
+    return (<section
+        id="experience-section">
         <motion.div variants={textVariant()}>
             <p className={`${styles.sectionSubText} text-center`}>
                 MY SWE JOURNEY SO FAR
@@ -65,7 +66,7 @@ const Experience = () => {
                 />))}
             </VerticalTimeline>
         </div>
-    </>)
+    </section>)
 }
 
 export default SectionWrapper(Experience, 'experience-section')
